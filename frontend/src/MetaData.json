@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "type":"Project",
+        "files":["P.file 1", "P.file 2", "P.file 3"]
+    },
+
+    {
+        "id":2,
+        "type":"Maintance",
+        "files":["M.file 1", "M.file 2", "M.file 3"]
+    },
+
+    {
+        "id":3,
+        "type":"Router",
+        "files":["R.file 1", "R.file 2", "R.file 3"]
+    }
+]
