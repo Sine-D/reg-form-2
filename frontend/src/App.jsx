@@ -112,47 +112,47 @@ return (
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-y-2 gap-x-4">
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox" />
                 <span>Panel Cleaned</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox" />
                 <span>Panel Board Safety</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox" />
                 <span>Water Leaks</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox" />
                 <span>Wire Terminals</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox" />
                 <span>Safety Labels</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox" />
                 <span>Earthing</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox"/>
                 <span>SPD</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox" className="accent-blue-500"/>
+                <input type="checkbox"/>
                 <span>Customer Awareness</span>
               </label>
 
               <label className="flex items-center space-x-2">
-                <input type="checkbox"className="accent-blue-500"/>
+                <input type="checkbox"/>
                 <span>Photos Taken and Shared</span>
               </label>
 
